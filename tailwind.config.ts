@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -47,6 +46,9 @@ export default {
 				gold: {
 					500: '#f59e0b',
 					600: '#d97706'
+				},
+				'logo-blue': {
+					500: '#3bb4f2',
 				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',

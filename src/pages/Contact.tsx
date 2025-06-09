@@ -122,12 +122,6 @@ const Contact = () => {
       title: "Address",
       details: ["Guptaji invests, Right Rewards Private Limited, T-Hub Phase 2, Madhapur, Hitech City, Hyderabad,Telangana, India."],
       action: "Visit our office"
-    },
-    {
-      icon: Clock,
-      title: "Working Hours",
-      details: ["Mon - Fri: 9:00 AM - 6:00 PM", "Sat: 10:00 AM - 4:00 PM"],
-      action: "Business hours"
     }
   ];
 
@@ -146,9 +140,9 @@ const Contact = () => {
       {/* Contact Info Cards */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="flex flex-wrap justify-center gap-8">
             {contactInfo.map((info, index) => (
-              <Card key={info.title} className="text-center hover:shadow-lg transition-all duration-300 animate-fade-in" style={{ animationDelay: `${index * 0.1}s` }}>
+              <Card key={info.title} className="text-center hover:shadow-lg transition-all duration-300 animate-fade-in w-full max-w-xs" style={{ animationDelay: `${index * 0.1}s` }}>
                 <CardContent className="p-6">
                   <div className="w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center mx-auto mb-4">
                     <info.icon className="text-primary-600" size={24} />
