@@ -131,7 +131,7 @@ const Investors = () => {
               image="/images/Investors/Anusha Kadimisetti.png"
               name="Anusha Kadimisetti"
               title="Frontier Laboratories Ltd (BMD)"
-              linkedinUrl="https://www.linkedin.com/in/anusha-kadimisetti/"
+              linkedinUrl="https://www.linkedin.com/in/anusha-k-/"
             />
             <ProfileCard
               image="/images/Investors/Ganesh Rayapudi.png"
