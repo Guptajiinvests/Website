@@ -149,7 +149,7 @@ const Investors = () => {
               image="/images/Investors/Srinivasulu Kopparapo.png"
               name="Srinivasulu Kopparapo"
               title="5Data Inc. (Head - Platform Engineering (pulsesg))"
-              linkedinUrl="https://www.linkedin.com/in/srinivasulukcloudcomputing/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              linkedinUrl="https://www.linkedin.com/in/srinivasulukcloudcomputing?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
              />
 
             <ProfileCard
