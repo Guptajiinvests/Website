@@ -192,7 +192,7 @@ const Investors = () => {
               image="/images/Investors/Rakesh Gadewar.jpeg"
               name="Rakesh Gadewar"
               title="SCL (Sponsorship Coordinator)"
-              linkedinUrl="https://www.linkedin.com/in/rakesh-gadewar/"
+              linkedinUrl="https://www.linkedin.com/in/rakesh-gadewar-24858b56/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Vamsi Krishna Sirna.jpeg"
@@ -204,7 +204,7 @@ const Investors = () => {
               image="/images/Investors/Gaurav Krishna M.jpeg"
               name="Gaurav Krishna M."
               title="Manepally Jewellers"
-              linkedinUrl="https://www.linkedin.com/in/gaurav-krishna-m/"
+              linkedinUrl="https://www.linkedin.com/in/gauravkrishnam/"
             />
             <ProfileCard
               image="/images/Investors/Sidhartha Namburi.jpeg"
@@ -222,37 +222,37 @@ const Investors = () => {
               image="/images/Investors/Sivarama Prasad T.png"
               name="Sivarama Prasad T"
               title="CEO VFE"
-              linkedinUrl="https://www.linkedin.com/in/sivarama-prasad-t/"
+              linkedinUrl="https://www.linkedin.com/in/vfe-ceo-517041b1/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Dr. Neelima Vemula.jpeg"
               name="Dr. Neelima Vemula"
               title="Neemax enterprise (Managing Director)"
-              linkedinUrl="https://www.linkedin.com/in/dr-neelima-vemula/"
+              linkedinUrl="https://www.linkedin.com/in/dr-neelima-vemula-70529b144/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Varun Vihar M..jpeg"
               name="Varun Vihar M."
               title="Lorven Pharma & Surgicals"
-              linkedinUrl="https://www.linkedin.com/in/varun-vihar-m/"
+              linkedinUrl="https://www.linkedin.com/in/varun-vihar-madupaduga-284b1573/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Praveen Thadakamalla.jpeg"
               name="Praveen Thadakamalla"
               title="IT America Inc (CEO)"
-              linkedinUrl="https://www.linkedin.com/in/praveen-thadakamalla/"
+              linkedinUrl="https://www.linkedin.com/in/praveen-thadakamalla-6b99429/"
             />
             <ProfileCard
               image="/images/Investors/Hemchandra Yelishala.jpeg"
               name="Hemchandra Yelishala"
               title="Vaishnaoi Group (Director)"
-              linkedinUrl="https://www.linkedin.com/in/hemchandra-yelishala/"
+              linkedinUrl="https://www.linkedin.com/in/hemchandray/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Rambabu Boorugu.jpeg"
               name="Rambabu Boorugu"
               title="Pranava Group (Executive Director, CEO)"
-              linkedinUrl="https://www.linkedin.com/in/rambabu-boorugu/"
+              linkedinUrl="https://www.linkedin.com/in/rambabu-boorugu-4b90061bb/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Vishwanath Komaravelli.jpeg"
