@@ -131,13 +131,13 @@ const Investors = () => {
               image="/images/Investors/Anusha Kadimisetti.png"
               name="Anusha Kadimisetti"
               title="Frontier Laboratories Ltd (BMD)"
-              linkedinUrl="https://www.linkedin.com/in/anusha-k-/"
+              linkedinUrl="https://www.linkedin.com/in/anusha-k-10a63176?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Ganesh Rayapudi.png"
               name="Ganesh Rayapudi"
               title="Index Emirates Grp. (Managing Director)"
-              linkedinUrl="https://www.linkedin.com/in/ganesh-rayapudi/"
+              linkedinUrl="https://www.linkedin.com/in/ganesh-rayapudi-5ab2b019?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Bharadwaj Rachamadugu.png"
@@ -149,8 +149,8 @@ const Investors = () => {
               image="/images/Investors/Srinivasulu Kopparapo.png"
               name="Srinivasulu Kopparapo"
               title="5Data Inc. (Head - Platform Engineering (pulsesg))"
-              linkedinUrl="https://www.linkedin.com/in/srinivasulu-kopparapo/"
-            />
+              linkedinUrl="https://www.linkedin.com/in/srinivasulukcloudcomputing?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            /
             <ProfileCard
               image="/images/Investors/P Venkateshwara Rao.png"
               name="P. Venkateshwara Rao"
