@@ -162,7 +162,7 @@ const Investors = () => {
               image="/images/Investors/CS Raghu Babu Gunturu.png"
               name="CS Raghu Babu Gunturu"
               title="SimplyBiz (Founder)"
-              linkedinUrl="https://www.linkedin.com/in/cs-raghu-babu-gunturu/"
+              linkedinUrl="https://www.linkedin.com/in/raghusimplybiz/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/KR Pradeep.png"
@@ -174,13 +174,13 @@ const Investors = () => {
               image="/images/Investors/CA Srikanth Vetcha.png"
               name="CA Srikanth Vetcha"
               title="Nuziveedu Seeds Ltd (CFO)"
-              linkedinUrl="https://www.linkedin.com/in/ca-srikanth-vetcha/"
+              linkedinUrl="https://www.linkedin.com/in/srikanth-vetcha-8a240b29/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Pasumarthi Hanumantha Rao.jpeg"
               name="Pasumarthi Hanumantha Rao"
               title="Invogue General Trading LLC"
-              linkedinUrl="https://www.linkedin.com/in/pasumarthi-hanumantha-rao/"
+              linkedinUrl="https://www.linkedin.com/in/hanumantharao-pasumarthi-71380b22/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Raghavendra Gupta M..jpeg"
