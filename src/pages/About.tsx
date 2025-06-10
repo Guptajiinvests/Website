@@ -210,7 +210,7 @@ const About = () => {
                     image="/images/key people/Sanyasi Rao Vuppala (2).jpeg"
                     name="Sanyasi Rao Vuppala"
                     title="MC Member of the Federation of Telangana and Andhra Pradesh"
-                    linkedinUrl="https://www.linkedin.com/in/sanyasi-rao-vuppala/"
+                    linkedinUrl="https://www.facebook.com/people/Sanyasirao-Vuppala-V/pfbid02e2DAmBJaiHHqvcEGG5znVEtG78yDoDrE5pK86vEPyp7twLP2WZ1sTYXdMjC4xpwtl/"
                   />
                   <ProfileCard
                     image="/images/key people/CA Rajesh Donkeshwar.jpeg"
@@ -236,7 +236,7 @@ const About = () => {
                     image="/images/key people/Ramchandram Dhannarapu.jpeg"
                     name="Ramchandram Dhannarapu"
                     title="Solus Media"
-                    linkedinUrl="https://www.linkedin.com/in/ramchandram-dhannarapu-2216169/"
+                    linkedinUrl="https://www.facebook.com/RPRAVISHANKER"
                   />
                   <ProfileCard
                     image="/images/key people/Anil Kumar Padakanti.jpeg"
