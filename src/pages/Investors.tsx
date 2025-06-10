@@ -300,7 +300,7 @@ const Investors = () => {
               image="/images/Investors/Aravind Voruganti.jpeg"
               name="Aravind Voruganti"
               title="VP -Blockchain at IDS Inc"
-              linkedinUrl="https://www.linkedin.com/in/aravind-voruganti/"
+              linkedinUrl="https://www.linkedin.com/in/aravindvoruganti/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Dr. Srikanth Guduguntla.jpeg"
@@ -312,37 +312,37 @@ const Investors = () => {
               image="/images/Investors/CA Vijay Kalimicherla.jpeg"
               name="CA Vijay Kalimicherla"
               title="Chartered Accountant"
-              linkedinUrl="https://www.linkedin.com/in/ca-vijay-kalimicherla/"
+              linkedinUrl="https://www.linkedin.com/in/ca-vijay-kalimicherla-0072545b/"
             />
             <ProfileCard
               image="/images/Investors/Anish Dundoo.jpeg"
               name="Anish Dundoo"
               title="IVC in Blockchain Tech"
-              linkedinUrl="https://www.linkedin.com/in/anish-dundoo/"
+              linkedinUrl="https://www.linkedin.com/in/anishdundoo/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Surya Vidiyala.jpeg"
               name="Surya Vidiyala"
               title="MASSINFOSYS (CEO)"
-              linkedinUrl="https://www.linkedin.com/in/surya-vidiyala/"
+              linkedinUrl="https://www.linkedin.com/in/suryavidiyala/"
             />
             <ProfileCard
               image="/images/Investors/Srikanth Bikumandla..jpeg"
               name="Srikanth Bikumandla"
               title="Si6 Associates (CEO)"
-              linkedinUrl="https://www.linkedin.com/in/srikanth-bikumandla/"
+              linkedinUrl="https://www.linkedin.com/in/sbiku/"
             />
             <ProfileCard
               image="/images/Investors/Anil Pendela..jpeg"
               name="Anil Pendela"
               title="Dreamz Entertainments (Managing Director)"
-              linkedinUrl="https://www.linkedin.com/in/anil-pendela/"
+              linkedinUrl="https://www.linkedin.com/in/anilpendela/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Kautike Aadityaw.jpeg"
               name="Kautike Aadityaw"
               title="Kautike Projects LLP"
-              linkedinUrl="https://www.linkedin.com/in/kautike-aadityaw/"
+              linkedinUrl="https://www.linkedin.com/in/kautike-aadityaw-52101651/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Naresh Meda.jpeg"
@@ -354,7 +354,7 @@ const Investors = () => {
               image="/images/Investors/Vuppala Harish.jpeg"
               name="Vuppala Harish"
               title="South India Shopping Mall (Assistant Purchaser)"
-              linkedinUrl="https://www.linkedin.com/in/vuppala-harish/"
+              linkedinUrl="https://www.linkedin.com/in/vuppala-harish-7a8140185/?originalSubdomain=in"
             />
           </div>
         </div>
