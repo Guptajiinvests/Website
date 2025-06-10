@@ -121,7 +121,7 @@ const About = () => {
                   image="/images/Sriharsha Majety.jpg"
                   name="Sriharsha Majety"
                   title="CEO and Co-founder at Swiggy"
-                  linkedinUrl="https://www.linkedin.com/in/sriharsha-majety-1b1a1b17/"
+                  linkedinUrl="https://www.linkedin.com/in/sriharsha-m-563aa217/"
                 />
               </div>
             </div>
