@@ -186,7 +186,7 @@ const Investors = () => {
               image="/images/Investors/Raghavendra Gupta M..jpeg"
               name="Raghavendra Gupta M."
               title="Medhini Meadows (Founder, Managing Director)"
-              linkedinUrl="https://www.linkedin.com/in/raghavendra-gupta-m/"
+              linkedinUrl="https://www.linkedin.com/in/rmaram/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Rakesh Gadewar.jpeg"
