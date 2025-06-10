@@ -197,7 +197,7 @@ const About = () => {
                     name="Sai Abhinay Chepuri"
                     title="Startup Innovation"
                     subtitle="T-Hub"
-                    linkedinUrl="https://www.linkedin.com/in/sai-abhinay-chepuri/"
+                    linkedinUrl="https://www.linkedin.com/in/saiabhinaychepuri/"
                   />
                   <ProfileCard
                     image="/images/key people/Pavan Adipuram.jpeg"
