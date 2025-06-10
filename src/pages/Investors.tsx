@@ -137,7 +137,7 @@ const Investors = () => {
               image="/images/Investors/Ganesh Rayapudi.png"
               name="Ganesh Rayapudi"
               title="Index Emirates Grp. (Managing Director)"
-              linkedinUrl="https://www.linkedin.com/in/ganesh-rayapudi-5ab2b019?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+              linkedinUrl="https://www.linkedin.com/in/ganesh-rayapudi-5ab2b019/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Bharadwaj Rachamadugu.png"
