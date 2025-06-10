@@ -119,7 +119,7 @@ const Investors = () => {
               image="/images/Investors/Sownmya Chanda.png"
               name="Sowmya Chanda"
               title="Vasavi Group (Director)"
-              linkedinUrl=""
+              linkedinUrl="https://www.linkedin.com/in/sowmya-chanda-9362a01b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Mourya Boda.png"
