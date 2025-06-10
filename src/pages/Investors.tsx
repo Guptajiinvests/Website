@@ -330,7 +330,7 @@ const Investors = () => {
               image="/images/Investors/Srikanth Bikumandla..jpeg"
               name="Srikanth Bikumandla"
               title="Si6 Associates (CEO)"
-              linkedinUrl="https://www.linkedin.com/in/sbiku/"
+              linkedinUrl="https://www.practo.com/hyderabad/doctor/dr-srikanth-guduguntla-dentist"
             />
             <ProfileCard
               image="/images/Investors/Anil Pendela..jpeg"
@@ -348,7 +348,7 @@ const Investors = () => {
               image="/images/Investors/Naresh Meda.jpeg"
               name="Naresh Meda"
               title="Entrepreneur"
-              linkedinUrl="https://www.linkedin.com/in/naresh-meda/"
+              linkedinUrl="https://www.instagram.com/naresh_meda/?hl=en"
             />
             <ProfileCard
               image="/images/Investors/Vuppala Harish.jpeg"
