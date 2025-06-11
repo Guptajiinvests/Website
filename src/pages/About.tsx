@@ -121,7 +121,7 @@ const About = () => {
                   image="/images/Sriharsha Majety.jpg"
                   name="Sriharsha Majety"
                   title="CEO and Co-founder at Swiggy"
-                  linkedinUrl="https://www.linkedin.com/in/sriharsha-majety-1b1a1b17/"
+                  linkedinUrl="https://www.linkedin.com/in/sriharsha-m-563aa217/"
                 />
               </div>
             </div>
@@ -135,7 +135,7 @@ const About = () => {
                     image="/images/Advisors/Lax Chepuri.jpeg"
                     name="Lax Chepuri"
                     title="CEO at Technogen"
-                    linkedinUrl="https://www.linkedin.com/in/laxchepuri/"
+                    linkedinUrl="https://www.linkedin.com/in/lax-rao-chepuri-9325362/"
                   />
                   <ProfileCard
                     image="/images/Advisors/Ravi Korukonda.jpeg"
@@ -148,14 +148,14 @@ const About = () => {
                     name="Gadi Venugopala Rao"
                     title="Director - Tax Advisory"
                     subtitle="Fox Mandal and Associates\nEx IRS Officer."
-                    linkedinUrl="https://www.linkedin.com/in/gadi-venugopala-rao/"
+                    linkedinUrl="https://www.linkedin.com/in/gvgopalarao/"
                   />
                   <ProfileCard
                     image="/images/Advisors/Chaitanya Kumar Lingamallu.jpeg"
                     name="Chaitanya Kumar Lingamallu"
                     title="Co-Founder & CMD"
                     subtitle="The Chocolate Room India"
-                    linkedinUrl="https://www.linkedin.com/in/chaitanya-kumar-lingamallu/"
+                    linkedinUrl="https://www.linkedin.com/in/chaitanya-kumar-lingamallu-76bb1b77/"
                   />
                   <ProfileCard
                     image="/images/Advisors/Rajesh Dhuddu.jpeg"
@@ -176,28 +176,28 @@ const About = () => {
                     image="/images/key people/Nishant Chintawar.jpeg"
                     name="Nishant Chintawar"
                     title="Sai Agro Industries"
-                    linkedinUrl="https://www.linkedin.com/in/nishant-chintawar/"
+                    linkedinUrl="https://www.linkedin.com/in/nishantchintawar/"
                   />
                   <ProfileCard
                     image="/images/key people/Abhinav Guptha.jpeg"
                     name="Abhinav Gupta"
                     title="Vice President - Innovation"
                     subtitle="Broadridge"
-                    linkedinUrl="https://www.linkedin.com/in/abhinav-gupta/"
+                    linkedinUrl="https://www.linkedin.com/in/abhinavguptha/"
                   />
                   <ProfileCard
                     image="/images/key people/Prithvi Chaithanya K.jpeg"
                     name="Prithvi Chaithanya K"
                     title="Head of Innovation Programs"
                     subtitle="Hexagon Capability Center India"
-                    linkedinUrl="https://www.linkedin.com/in/prithvi-chaithanya-k/"
+                    linkedinUrl="https://www.linkedin.com/in/prithvichaithanya/"
                   />
                   <ProfileCard
                     image="/images/key people/Sai Abhinay Chepuri.jpeg"
                     name="Sai Abhinay Chepuri"
                     title="Startup Innovation"
                     subtitle="T-Hub"
-                    linkedinUrl="https://www.linkedin.com/in/sai-abhinay-chepuri/"
+                    linkedinUrl="https://www.linkedin.com/in/saiabhinaychepuri/"
                   />
                   <ProfileCard
                     image="/images/key people/Pavan Adipuram.jpeg"
@@ -210,14 +210,14 @@ const About = () => {
                     image="/images/key people/Sanyasi Rao Vuppala (2).jpeg"
                     name="Sanyasi Rao Vuppala"
                     title="MC Member of the Federation of Telangana and Andhra Pradesh"
-                    linkedinUrl="https://www.linkedin.com/in/sanyasi-rao-vuppala/"
+                    linkedinUrl="https://www.facebook.com/people/Sanyasirao-Vuppala-V/pfbid02e2DAmBJaiHHqvcEGG5znVEtG78yDoDrE5pK86vEPyp7twLP2WZ1sTYXdMjC4xpwtl/"
                   />
                   <ProfileCard
                     image="/images/key people/CA Rajesh Donkeshwar.jpeg"
                     name="CA Rajesh Donkeshwar"
                     title="Director"
                     subtitle="HOLISTIC CORPORTE ADVISORS"
-                    linkedinUrl="https://www.linkedin.com/in/ca-rajesh-donkeshwar/"
+                    linkedinUrl="https://www.linkedin.com/in/rajesh-donkeshwar-89164a11/"
                   />
                   <ProfileCard
                     image="/images/key people/R P Ravishanker.jpeg"
@@ -230,20 +230,20 @@ const About = () => {
                     image="/images/key people/MNR Gupta.jpeg"
                     name="MNR Gupta"
                     title="CEO Global for Ritzy Schools"
-                    linkedinUrl="https://www.linkedin.com/in/mnr-gupta/"
+                    linkedinUrl="https://www.linkedin.com/in/mnrgupta/"
                   />
                   <ProfileCard
                     image="/images/key people/Ramchandram Dhannarapu.jpeg"
                     name="Ramchandram Dhannarapu"
                     title="Solus Media"
-                    linkedinUrl="https://www.linkedin.com/in/ramchandram-dhannarapu/"
+                    linkedinUrl="https://www.facebook.com/RPRAVISHANKER"
                   />
                   <ProfileCard
                     image="/images/key people/Anil Kumar Padakanti.jpeg"
                     name="Anil Kumar Padakanti"
                     title="Director Of Sales and Marketing"
                     subtitle="UNIVERSAL WATER CHEMICALS"
-                    linkedinUrl="https://www.linkedin.com/in/anil-kumar-padakanti/"
+                    linkedinUrl="https://www.linkedin.com/in/anil-kumar-padakanti-77987a33/"
                   />
                   <ProfileCard
                     image="/images/key people/Puvvada Seshadri.jpeg"
