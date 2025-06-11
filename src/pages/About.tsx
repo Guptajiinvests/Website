@@ -243,7 +243,7 @@ const About = () => {
                     name="Anil Kumar Padakanti"
                     title="Director Of Sales and Marketing"
                     subtitle="UNIVERSAL WATER CHEMICALS"
-                    linkedinUrl="https://www.linkedin.com/in/anil-kumar-padakanti/"
+                    linkedinUrl="https://www.linkedin.com/in/anil-kumar-padakanti-77987a33/"
                   />
                   <ProfileCard
                     image="/images/key people/Puvvada Seshadri.jpeg"
