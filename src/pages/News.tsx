@@ -3,11 +3,11 @@ import { Card, CardContent } from '@/components/ui/card';
 import NewsCard from '@/components/NewsCard';
 
 export const newsArticles = [
-  {
+    {
     image: '/images/News/image1.avif',
-    title: "1st Strategic - Angel Investors in India",
-    excerpt: "Guptaji Invests emerges as India's pioneering strategic angel investment network, connecting traditional business acumen with innovative startups.",
-    date: "2024-01-15",
+      title: "1st Strategic - Angel Investors in India",
+      excerpt: "Guptaji Invests emerges as India's pioneering strategic angel investment network, connecting traditional business acumen with innovative startups.",
+      date: "2024-01-15",
     category: "Industry Leadership",
     author: "Anjali Nikhil",
     views: 32,
@@ -37,8 +37,8 @@ export const newsArticles = [
   {
     image: '/images/News/image2.avif',
     title: "Driving Innovation and Growth - Top Angel Investor in India - Guptajiinvests",
-    excerpt: "How Guptaji Invests is reshaping the startup ecosystem by providing strategic value addition beyond capital investment.",
-    date: "2024-01-10",
+      excerpt: "How Guptaji Invests is reshaping the startup ecosystem by providing strategic value addition beyond capital investment.",
+      date: "2024-01-10",
     category: "Innovation",
     author: "Anjali Nikhil",
     views: 16,
@@ -58,8 +58,8 @@ export const newsArticles = [
   {
     image: '/images/News/image 3.avif',
     title: "Empowering Entrepreneurs for Success - Angle Investor in Hyderabad",
-    excerpt: "Local entrepreneurs benefit from Guptaji Invests' community-driven approach to startup funding and mentorship.",
-    date: "2024-01-05",
+      excerpt: "Local entrepreneurs benefit from Guptaji Invests' community-driven approach to startup funding and mentorship.",
+      date: "2024-01-05",
     category: "Entrepreneurship",
     author: "Anjali Nikhil",
     views: 22,
@@ -77,9 +77,9 @@ export const newsArticles = [
   },
   {
     image: '/images/News/image4.avif',
-    title: "Connecting Communities for Success",
-    excerpt: "The power of community-driven investments in building sustainable startup ecosystems across India.",
-    date: "2023-12-20",
+      title: "Connecting Communities for Success",
+      excerpt: "The power of community-driven investments in building sustainable startup ecosystems across India.",
+      date: "2023-12-20",
     category: "Community",
     author: "Anjali Nikhil",
     views: 15,
@@ -162,23 +162,23 @@ export const newsArticles = [
         <li><a href='https://www.linkedin.com/in/srinivasmadhavam' target='_blank'>https://www.linkedin.com/in/srinivasmadhavam</a></li>
       </ol>
     `
-  }
-];
+    }
+  ];
 
-const awards = [
-  {
-    title: "TITA Social Impact Award 2022",
-    description: "Recognized for outstanding contribution to the startup ecosystem and social impact initiatives.",
-    date: "September 2022",
-    icon: Award
-  },
-  {
-    title: "Pride of Hyderabad Award 2022",
-    description: "Honored for exceptional service to the Hyderabad startup community and economic development.",
-    date: "September 2022",
-    icon: TrendingUp
-  }
-];
+  const awards = [
+    {
+      title: "TITA Social Impact Award 2022",
+      description: "Recognized for outstanding contribution to the startup ecosystem and social impact initiatives.",
+      date: "September 2022",
+      icon: Award
+    },
+    {
+      title: "Pride of Hyderabad Award 2022",
+      description: "Honored for exceptional service to the Hyderabad startup community and economic development.",
+      date: "September 2022",
+      icon: TrendingUp
+    }
+  ];
 
 const News = () => {
   return (

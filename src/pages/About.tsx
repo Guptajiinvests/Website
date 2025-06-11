@@ -78,15 +78,18 @@ const About = () => {
           <div className="bg-gray-50 rounded-2xl p-8 md:p-12">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div className="animate-slide-in">
-                <div className="w-80 h-80 bg-white rounded-lg flex items-center justify-center mx-auto lg:mx-0 mb-6 overflow-hidden shadow-2xl">
-                  <img 
-                    src="/images/founder.png" 
-                    alt="Ravi Teja Gupta" 
-                    className="w-full h-full object-contain hover:scale-105 transition-transform duration-300"
-                    loading="eager"
-                  />
+                <div className="w-85 h-85 bg-white rounded-lg flex items-center justify-center mx-auto lg:mx-0 mb-6 overflow-hidden shadow-2xl">
+                  <a href="https://www.linkedin.com/in/ravitejaguptaji/" target="_blank" rel="noopener noreferrer">
+                    <img 
+                      src="/images/founder.png" 
+                      alt="Ravi Teja Gupta" 
+                      className="w-50 h-100 object-cover hover:scale-105 transition-transform duration-300"
+                      loading="eager"
+                    />
+                  </a>
                 </div>
               </div>
+             
               
               <div className="animate-fade-in">
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Ravi Teja Gupta</h3>
