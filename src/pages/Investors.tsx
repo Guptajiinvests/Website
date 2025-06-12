@@ -198,7 +198,7 @@ const Investors = () => {
               image="/images/Investors/Vamsi Krishna Sirna.jpeg"
               name="Vamsi Krishna Sirna"
               title="R. S. Brothers"
-              linkedinUrl="https://www.linkedin.com/in/vamsi-krishna-sirna/"
+              linkedinUrl="https://www.facebook.com/vamshi.sirna/"
             />
             <ProfileCard
               image="/images/Investors/Gaurav Krishna M.jpeg"
@@ -270,31 +270,31 @@ const Investors = () => {
               image="/images/Investors/Pulluri Srikanth.jpeg"
               name="Pulluri Srikanth"
               title="PSK construction Pvt Ltd (Director)"
-              linkedinUrl="https://www.linkedin.com/in/pulluri-srikanth/"
+              linkedinUrl="https://www.linkedin.com/in/drsrikanthpulluri?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             />
             <ProfileCard
               image="/images/Investors/Navneeth Gowrishetty.jpeg"
               name="Navneeth Gowrishetty"
               title="3DM Agency (Co-founder)"
-              linkedinUrl="https://www.linkedin.com/in/navneeth-gowrishetty/"
+              linkedinUrl="https://www.linkedin.com/in/navneeth-gowrishetty-3dm/"
             />
             <ProfileCard
               image="/images/Investors/Anup Yama.jpeg"
               name="Anup Yama"
               title="Yama Skating Academy (CEO)"
-              linkedinUrl="https://www.linkedin.com/in/anup-yama/"
+              linkedinUrl="https://www.linkedin.com/in/anup-kumar-yama-74325521/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Nagendra Aytha.jpeg"
               name="Nagendra Aytha"
               title="Epromptus (CEO)"
-              linkedinUrl="https://www.linkedin.com/in/nagendra-aytha/"
+              linkedinUrl="https://www.linkedin.com/in/nagaytha/"
             />
             <ProfileCard
               image="/images/Investors/Raghu Boddu.jpeg"
               name="Raghu Boddu"
               title="ToggleNow (Managing Director)"
-              linkedinUrl="https://www.linkedin.com/in/raghu-boddu/"
+              linkedinUrl="https://www.linkedin.com/in/bodduraghu/?originalSubdomain=in"
             />
             <ProfileCard
               image="/images/Investors/Aravind Voruganti.jpeg"
@@ -306,7 +306,7 @@ const Investors = () => {
               image="/images/Investors/Dr. Srikanth Guduguntla.jpeg"
               name="Dr. Srikanth Guduguntla"
               title="Smile miles Dental Hospital"
-              linkedinUrl="https://www.linkedin.com/in/dr-srikanth-guduguntla/"
+              linkedinUrl="https://www.practo.com/hyderabad/doctor/dr-srikanth-guduguntla-dentist"
             />
             <ProfileCard
               image="/images/Investors/CA Vijay Kalimicherla.jpeg"
@@ -330,7 +330,7 @@ const Investors = () => {
               image="/images/Investors/Srikanth Bikumandla..jpeg"
               name="Srikanth Bikumandla"
               title="Si6 Associates (CEO)"
-              linkedinUrl="https://www.practo.com/hyderabad/doctor/dr-srikanth-guduguntla-dentist"
+              linkedinUrl="https://www.linkedin.com/in/sbiku/"
             />
             <ProfileCard
               image="/images/Investors/Anil Pendela..jpeg"
