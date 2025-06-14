@@ -52,7 +52,7 @@ const Home = () => {
   const partners = [
     {
       image: "/images/Partners/Chitkara.png",
-      url: "https://www.chitkara.edu.in/"
+      url: "https://www.chitkara.edu.in/ciif/"
     },
     {
       image: "/images/Partners/E cell  hyderabad.png",
@@ -64,15 +64,15 @@ const Home = () => {
     },
     {
       image: "/images/Partners/free flow.jpeg",
-      url: "#"
+      url: "https://freeflow.zone/"
     },
     {
       image: "/images/Partners/Headstart.png",
-      url: "https://headstart.in/"
+      url: "https://www.headstart.in/"
     },
     {
       image: "/images/Partners/IIIT Hyderabad.png",
-      url: "https://www.iiit.ac.in/"
+      url: "https://cie.iiit.ac.in/"
     },
     {
       image: "/images/Partners/iit kanpur.jpeg",
@@ -88,19 +88,19 @@ const Home = () => {
     },
     {
       image: "/images/Partners/VJIM.png",
-      url: "https://www.vjim.edu.in/"
+      url: "https://vjhub.in/"
     },
     {
       image: "/images/Partners/XLRI.jpeg",
-      url: "https://www.xlri.ac.in/"
+      url: "https://xceed.xlri.ac.in/"
     },
     {
       image: "/images/Partners/osmania.jpg",
-      url: "https://www.osmania.ac.in/"
+      url: "https://www.linkedin.com/company/osmania-technology-business-incubator/"
     },
     {
       image: "/images/Partners/iim lucknow.jpg",
-      url: "https://www.iiml.ac.in/"
+      url: "https://www.iimlincubator.com/"
     }
   ];
 
