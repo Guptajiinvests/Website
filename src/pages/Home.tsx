@@ -107,7 +107,7 @@ const Home = () => {
   const mediaFeatures = [
     {
       image: "/images/featured on/Zee Bussiness.jpeg",
-      url: "https://youtu.be/DfI3HjWG_XI?si=mNupN_PS_4MD_r2I"
+      url: "https://www.youtube.com/watch?v=jMNvVkKJgq0"
     },
     {
       image: "/images/featured on/bussiness line.png",
@@ -119,7 +119,7 @@ const Home = () => {
     },
     {
       image: "/images/featured on/TV news 5.jpeg",
-      url: "https://youtu.be/bZPbRVKtkdo?si=bCmXWTtOHHK7puz3"
+      url: "https://www.youtube.com/watch?v=DfI3HjWG_XI"
     },
     {
       image: "/images/featured on/The times of India.jpeg",
@@ -135,7 +135,7 @@ const Home = () => {
     },
     {
       image: "/images/featured on/NTV.jpeg",
-      url: "https://youtu.be/jMNvVkKJgq0?si=31BA0f3SoHJeOSxo"
+      url: "https://www.youtube.com/watch?v=bZPbRVKtkdo"
     },
     {
       image: "/images/featured on/EEnadu.jpeg",
