@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2 flex items-center gap-3">
-            <img src="public/images/guptajilogo.png" alt="Guptaji Logo" className="h-100 w-100 object-contain" />
+            <img src="/images/guptajilogo.png" alt="Guptaji Logo" className="h-100 w-100 object-contain" />
             <div>
               <p className="text-gray-300 mb-4 max-w-md">
                 India's 1st Strategic Investments Angel Network connecting startup founders 
