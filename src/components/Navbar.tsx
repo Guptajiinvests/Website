@@ -23,7 +23,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center gap-2">
-              <img src="public/images/guptajilogo.png" alt="Guptaji Logo" className="h-100 w-100 object-contain" />
+              <img src="/images/guptajilogo.png" alt="Guptaji Logo" className="h-100 w-100 object-contain" />
 
             </Link>
           </div>
