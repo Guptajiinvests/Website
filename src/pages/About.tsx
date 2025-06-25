@@ -175,6 +175,12 @@ const About = () => {
               <div className="max-w-7xl mx-auto">
                 <div className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Key People</div>
                 <div className="w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-12 justify-items-center">
+                <ProfileCard
+                    image="/images/key people/TataTeja.jpeg"
+                    name="Tata Teja"
+                    title="GMR Group"
+                    linkedinUrl="https://www.linkedin.com/in/tatateja?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+                  />
                   <ProfileCard
                     image="/images/key people/Nishant Chintawar.jpeg"
                     name="Nishant Chintawar"
@@ -227,7 +233,7 @@ const About = () => {
                     name="R P Ravishanker"
                     title="Founding Partner and Managing Director"
                     subtitle="of S R R & Co"
-                    linkedinUrl="https://www.linkedin.com/in/r-p-ravishanker/"
+                    linkedinUrl="https://www.facebook.com/RPRAVISHANKER"
                   />
                   <ProfileCard
                     image="/images/key people/MNR Gupta.jpeg"
@@ -239,7 +245,7 @@ const About = () => {
                     image="/images/key people/Ramchandram Dhannarapu.jpeg"
                     name="Ramchandram Dhannarapu"
                     title="Solus Media"
-                    linkedinUrl="https://www.facebook.com/RPRAVISHANKER"
+                    linkedinUrl="https://www.linkedin.com/in/ramchandram-dhannarapu-2216169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   />
                   <ProfileCard
                     image="/images/key people/Anil Kumar Padakanti.jpeg"

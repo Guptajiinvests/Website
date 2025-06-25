@@ -31,7 +31,7 @@ const HeroSection = () => {
             </a>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-16 max-w-2xl mx-auto">
             <div className="text-center animate-slide-in">
               <div className="text-4xl font-bold text-gold-500 mb-2">100+</div>
               <div className="text-blue-100">Angel Investors</div>
@@ -39,10 +39,6 @@ const HeroSection = () => {
             <div className="text-center animate-slide-in" style={{ animationDelay: '0.2s' }}>
               <div className="text-4xl font-bold text-gold-500 mb-2">7+</div>
               <div className="text-blue-100">Portfolio Companies</div>
-            </div>
-            <div className="text-center animate-slide-in" style={{ animationDelay: '0.4s' }}>
-              <div className="text-4xl font-bold text-gold-500 mb-2">₹50Cr+</div>
-              <div className="text-blue-100">Investments Facilitated</div>
             </div>
           </div>
         </div>

@@ -60,14 +60,10 @@ const Investors = () => {
       {/* Stats Section */}
       <section className="py-16 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-center">
             <div className="animate-fade-in">
               <div className="text-4xl font-bold text-primary-800 mb-2">100+</div>
               <div className="text-gray-600">Angel Investors</div>
-            </div>
-            <div className="animate-fade-in" style={{ animationDelay: '0.1s' }}>
-              <div className="text-4xl font-bold text-primary-800 mb-2">₹50Cr+</div>
-              <div className="text-gray-600">Investments Facilitated</div>
             </div>
             <div className="animate-fade-in" style={{ animationDelay: '0.2s' }}>
               <div className="text-4xl font-bold text-primary-800 mb-2">7+</div>
@@ -168,7 +164,7 @@ const Investors = () => {
               image="/images/Investors/KR Pradeep.png"
               name="KR Pradeep"
               title="Lawyer"
-              linkedinUrl="https://www.linkedin.com/in/kr-pradeep/"
+              linkedinUrl="https://krpradeep.com/profile.htm"
             />
             <ProfileCard
               image="/images/Investors/CA Srikanth Vetcha.png"

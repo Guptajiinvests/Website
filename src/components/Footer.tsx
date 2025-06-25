@@ -2,13 +2,17 @@ import { Link } from 'react-router-dom';
 import { Mail, Phone, MapPin, Linkedin, Twitter } from 'lucide-react';
 
 const Footer = () => {
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2 flex items-center gap-3">
-            <img src="/images/guptajilogo.png" alt="Guptaji Logo" className="h-100 w-100 object-contain" />
+            <img src="/images/guptajilogo.png" alt="Guptaji Logo" className="h-12 w-28 sm:h-16 sm:w-36 object-contain" />
             <div>
               <p className="text-gray-300 mb-4 max-w-md">
                 India's 1st Strategic Investments Angel Network connecting startup founders 
@@ -29,10 +33,10 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2">
-              <li><Link to="/about" className="text-gray-300 hover:text-white transition-colors">About Us</Link></li>
-              <li><Link to="/investors" className="text-gray-300 hover:text-white transition-colors">Investors</Link></li>
-              <li><Link to="/news" className="text-gray-300 hover:text-white transition-colors">News & Updates</Link></li>
-              <li><Link to="/contact" className="text-gray-300 hover:text-white transition-colors">Contact</Link></li>
+              <li><Link to="/about" onClick={scrollToTop} className="text-gray-300 hover:text-white transition-colors">About Us</Link></li>
+              <li><Link to="/investors" onClick={scrollToTop} className="text-gray-300 hover:text-white transition-colors">Investors</Link></li>
+              <li><Link to="/news" onClick={scrollToTop} className="text-gray-300 hover:text-white transition-colors">News & Updates</Link></li>
+              <li><Link to="/contact" onClick={scrollToTop} className="text-gray-300 hover:text-white transition-colors">Contact</Link></li>
             </ul>
           </div>
 
