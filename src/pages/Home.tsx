@@ -15,7 +15,7 @@ const Home = () => {
       name: "Exprs",
       description: "Enhances last-mile delivery efficiency for eCommerce brands with smart logistics solutions.",
       image: "/images/startups/exprs.jpeg", // Add your image URL here
-      redirectPath: "/portfolio/exprs"
+      redirectPath: "https://exprs.com/"
     },
     {
       name: "Cloud Tailor",
