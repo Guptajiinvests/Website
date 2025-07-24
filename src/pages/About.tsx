@@ -176,7 +176,7 @@ const About = () => {
                 <div className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Key People</div>
                 <div className="w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-12 justify-items-center">
                 <ProfileCard
-                    image="/images/key people/TataTeja.jpeg"
+                    image="/images/key people/Tata Teja.jpg"
                     name="Tata Teja"
                     title="GMR Group"
                     linkedinUrl="https://www.linkedin.com/in/tatateja?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
